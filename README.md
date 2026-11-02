@@ -28,4 +28,10 @@ MetaSkillGroup
 
 ## Live Demo
 
-Coming Soon
+## Live Demo
+
+[View Live Demo](https://chipper-lebkuchen-52ae1d.netlify.app/)
+
+## Source Code
+
+[GitHub Repository](https://github.com/dy8800779-commits/msg-corporate-header)
